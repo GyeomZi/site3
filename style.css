@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width:100%;
+    height:100%;
+
+}
+
+.top{
+    
+}
+.div {
+    position: relative;
+    z-index: 30;
+    width:100%;
+    margin:0;
+    background-color: #00c73c;
+}
+
+.header {
+    background-color: #00c73c;
+    margin:0 auto;
+    max-width:914px;
+    height:55px;
+    padding:0 20px;
+    z-index:30;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    color:white;
+}
+
+.naver {}
+
+.naver_id {
+    
+}
+
+.menuitem {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    gap: 10px;
+}
+
+.menu {}
